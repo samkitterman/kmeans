@@ -1,0 +1,9 @@
+body {
+    font-family: arial, sans;
+}
+.xAxisLabel,
+.yAxisLabel {
+    font-size: 0.9em;
+    text-anchor: end;
+    fill: black;
+}
